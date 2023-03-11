@@ -1,0 +1,6 @@
+{
+  "name": "com.example.my-package",
+  "version": "0.1.0",
+  "displayName": "My Package",
+  "description": "Example Package."
+}
