@@ -2,5 +2,13 @@
   "name": "com.example.my-package",
   "version": "0.1.0",
   "displayName": "My Package",
-  "description": "Example Package."
+  "description": "Example Package.",
+  "samples": [
+    {
+      "displayName": "Example Sample",
+      "description": "Example sample.",
+      "path": "Samples/ExampleSample",
+      "interactiveImport": true
+    }
+  ]
 }
