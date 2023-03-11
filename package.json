@@ -7,7 +7,7 @@
     {
       "displayName": "Example Sample",
       "description": "Example sample.",
-      "path": "Samples/ExampleSample",
+      "path": "Samples~/ExampleSample",
       "interactiveImport": true
     }
   ]
